@@ -37,7 +37,7 @@ from concurrent.futures import ThreadPoolExecutor
 import openai
 from pdf2image import convert_from_path
 from PIL import Image
-import tabula
+# import tabula
 from manual_test import statement_to_xlsx
 from manual_test import count_exported_csv_files,delete_exported_csv_files,extract_numbers_from_string,delete_temp_files
 from manual_test import statement_to_csv, get_exported_files, run_ocr_to_csv, run_ocr_to_csv_multiple_times,improve_text_structure
