@@ -17,12 +17,14 @@ pdf2image==1.16.3
 # Pillow==9.2.0
 Pillow==9.2.0
 pymupdf==1.23.6 
-PyPDF2==3.0.1
+PyPDF2
+# PyPDF2==3.0.1
 pytesseract==0.3.10
 # python_Levenshtein==0.23.0
 python-dotenv==1.0.0
 python_Levenshtein==0.25.0
-tabula_py==2.9.0
+tabula-py
+# tabula_py==2.9.0
 tools
 Werkzeug==3.0.1
 
