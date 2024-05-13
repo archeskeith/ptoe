@@ -23,6 +23,7 @@ pytesseract==0.3.10
 python-dotenv==1.0.0
 python_Levenshtein==0.25.0
 tabula_py==2.9.0
+tools
 Werkzeug==3.0.1
 
 
